@@ -1,4 +1,4 @@
-package chapter_code.ex_2_2;
+package chapter_tasks.ex_2_2;
 
 public class Date {
     public static void main(String[] args) {

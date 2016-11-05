@@ -1,4 +1,4 @@
-package chapter_code.ex_2_3;
+package chapter_tasks.ex_2_3;
 
 public class Time {
     public static void main(String[] args) {
