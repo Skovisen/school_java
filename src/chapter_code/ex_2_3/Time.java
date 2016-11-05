@@ -18,7 +18,6 @@ public class Time {
         else{
             System.out.print(+minute);
         }
-
         System.out.print(":");
         System.out.print(seconds);
         System.out.println(".");
