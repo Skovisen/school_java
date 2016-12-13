@@ -7,9 +7,22 @@ import textio.TextIO;
  */
 public class solve {
     public static void main(String[] args){
-        int n = TextIO.getlnInt();
-    }
-        while (int n != 1){
+        getNumber();
+        }
+
 
     }
+    public static void getNumber() {
+        System.out.print("Please enter a positive number for assessment:\n");
+        int n = TextIO.getlnInt();
+        if (n < 1) {
+            System.out.println("Woops, that was not a positive integer!");
+            getNumber();
+        }
+        else{
+                while(n != 1){
+                    //TODO
+                }
+            }
+        }
 }
