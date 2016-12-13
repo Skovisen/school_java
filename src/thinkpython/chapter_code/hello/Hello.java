@@ -1,4 +1,4 @@
-package chapter_code.hello;
+package thinkpython.chapter_code.hello;
 
 public class Hello {
     public static void main(String[] args) {

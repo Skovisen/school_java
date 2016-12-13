@@ -1,4 +1,4 @@
-package chapter_code.scanner_class;
+package thinkpython.chapter_code.scanner_class;
 
 import java.util.Scanner;
 
