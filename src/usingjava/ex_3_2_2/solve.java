@@ -10,6 +10,6 @@ public class solve {
         int n = TextIO.getlnInt();
     }
         while (int n != 1){
-            
+
     }
 }
