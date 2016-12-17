@@ -43,6 +43,8 @@ public class solve {
                     System.out.println(n);
 
                     }
-            }
-    }
-}
+            } //End method getNumber
+
+    } //End method main
+    
+} //End class Solve
