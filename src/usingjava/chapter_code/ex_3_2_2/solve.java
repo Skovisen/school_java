@@ -46,5 +46,5 @@ public class solve {
             } //End method getNumber
 
     } //End method main
-    
+
 } //End class Solve
