@@ -7,6 +7,7 @@ public class Time {
         int hour = 18;
         int minute = 3;
         int seconds = 59;
+
         double sec_now = ((hour*3600)+(minute * 60)+seconds);
         double percent = ((sec_now*100)/(day*3600));
         System.out.print("The current time is ");
