@@ -1,4 +1,4 @@
-package thinkpython.chapter_tasks.ex_2_3;
+package thinkjava.chapter_tasks.ex_2_3;
 
 public class Time {
     public static void main(String[] args) {
